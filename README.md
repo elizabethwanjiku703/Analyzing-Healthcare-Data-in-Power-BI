@@ -20,4 +20,12 @@
 ## Insights
 |Length of Stay Comparison  |  Cost Comparison  |
 |-------------------------  |-------------------|
-|![LOS Comparison](https://github.com/elizabethwanjiku703/Analyzing-Healthcare-Data-in-Power-BI/blob/main/LOS%20Comparison.jpg)  | ![Cost Comparison](https://github.com/elizabethwanjiku703/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Cost%20Comparison.jpg) |
+|![LOS Comparison](https://github.com/elizabethwanjiku703/Analyzing-Healthcare-Data-in-Power-BI/blob/main/LOS%20Comparison.jpg)  | ![Cost Comparison](https://github.com/elizabethwanjiku703/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Cost%20Comparison.jpg)|
+|The average length of stay (LOS) for hip replacement surgery is 2.65 days, costing $21,000 per discharge. The Hospital for Special Surgery recorded the highest total discharges while maintaining a lower LOS. In contrast, Staten Island University Hospital-North had the longest LOS despite having only five surgeons on staff. | New York hospitals have the highest cost per discharge in the nation. Within New York City, five hospitals reported an average cost per discharge that exceeded the 90th percentile compared to other facilities in the area.|
+
+| Hospital Profile|
+|-----------------|
+|![Hospital Profile](https://github.com/elizabethwanjiku703/Analyzing-Healthcare-Data-in-Power-BI/blob/main/Hospital%20Profile.jpg) |
+| Patients with moderate illness had the highest discharge rates compared to those with more severe conditions. Most of these discharged patients were referred to home health services, with osteoarthritis being the primary diagnosis. Additionally, the majority of these patients experienced only minor mortality rates.|
+
+

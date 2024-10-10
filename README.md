@@ -1,6 +1,6 @@
 # HealthStat Analysis 
 ### Table of Content
-- - [Project Overview](#project-overview)
+- [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Highlights](#highlights)
 - [Insights](#insights)
